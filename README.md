@@ -21,6 +21,6 @@ O projeto pretendia criar uma **Lista de Tarefas** para organizar e priorizar ta
 - Não permitir que um item seja adicionado se só tiver espaços e nenhum texto no input
 - Permitir drag and drop pra reorganizar a lista (em processo de debug)
 
-![alt text](img/to-do-list.png "Imagem da To do List")
+![](./img/to-do-list.png "Imagem da To do List")
 
 ---
