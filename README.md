@@ -21,7 +21,7 @@ O projeto pretendia criar uma **Lista de Tarefas** para organizar e priorizar ta
 - Não permitir que um item seja adicionado se só tiver espaços e nenhum texto no input
 - Permitir drag and drop pra reorganizar a lista (em processo de debug)
 
-![alt text](https://github.com/brunagil/reprograma-to-do-list/blob/master/img/to-do-list.PNG "Imagem da To do List")
+![alt text](https://github.com/brunagil/reprograma-to-do-list/blob/master/img/img-todolist.gif "Imagem da To do List")
 
 ---
 
