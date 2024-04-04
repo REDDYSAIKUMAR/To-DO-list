@@ -23,6 +23,7 @@ O projeto pretendia criar uma **Lista de Tarefas** para organizar e priorizar ta
 
 ![alt text](https://github.com/brunagil/reprograma-to-do-list/blob/master/img/img-todolist.gif "Imagem da To do List")
 
+GI IMAGE has added
 ---
 
 Fique a vontade para enviar pull requests para esse projeto 
